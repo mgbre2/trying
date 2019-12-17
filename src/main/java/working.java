@@ -5,5 +5,8 @@ public class working {
 
         System.out.println("doingg");
           System.out.println("last");
+        System.out.println("goodmorning");
+        System.out.println("goodmorning");
+        System.out.println("featuregi");
     }
 }
